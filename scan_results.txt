@@ -1,0 +1,21 @@
+Nmap Scan Results
+==============================
+
+🔍 Scanning 192.168.1.148 for open ports...
+❌ No open ports found.
+
+🔍 Scanning 192.168.1.180 for open ports...
+❌ No open ports found.
+
+🔍 Scanning 192.168.1.254 for open ports...
+✅ Open ports on 192.168.1.254:
+  - Port 53: domain
+  - Port 80: http
+  - Port 111: rpcbind
+  - Port 443: http
+
+🔍 Scanning 192.168.1.78 for open ports...
+❌ No open ports found.
+
+🔍 Scanning 192.168.1.95 for open ports...
+❌ No open ports found.
